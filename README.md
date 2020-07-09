@@ -52,4 +52,4 @@ $ truffle console
  
 
 ## Module
-MI4: Module 1: E2
+MI4: Module 1: E3
