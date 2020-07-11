@@ -47,9 +47,8 @@ The smart contract was successfully deployed. You can see the transaction number
 6.	Now run the truffle console and call the info for block 4.  There is the transaction number which we see in migration info.
 ```bash
 $ truffle console
+$ > web3.eth.getBlock(4)
 ```
-> web3.eth.getBlock(4)
- 
 
 ## Module
 MI4: Module 1: E3
