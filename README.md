@@ -1,5 +1,5 @@
 # Develop and Deploy Smart Contracts with Truffle
-Create a smart contract, compile and deploy it using the Truffle Framework and add unit tests for the contract logic using Truffle. Deploy the smart contract in Ganache-CLI with Truffle. Then write unit tests for the smart contract and test it with Truffle. The contract will be written in Solidity. Before getting started, Truffle and Ganache-cli must be installed. Ganache-cli will be the tool we will use to create a private blockchain that runs on our machine only. 
+Create a smart contract, compile and deploy it using the Truffle Framework and add Unit Tests for the contract logic using Truffle. Deploy the smart contract in Ganache-CLI with Truffle. Then write unit tests for the smart contract and test it with Truffle. The contract will be written in Solidity. Before getting started, Truffle and Ganache-cli must be installed. Ganache-cli will be the tool we will use to create a private blockchain that runs on our machine only. 
 For this exercise we will use Ubuntu 16.04.3.
 
 ## Requirements
